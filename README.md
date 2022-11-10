@@ -16,4 +16,4 @@ Riquan Zhang,
 Yao Zhao.
 
 
-The code using MindSpore will be provided soon. 
+The code using MindSpore will be provided on gitee soon. Please check our gitee link https://gitee.com/chunjie-zhang/cpcnn.
